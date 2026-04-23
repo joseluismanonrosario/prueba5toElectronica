@@ -12,7 +12,7 @@ int main() {
     scanf("%s", password);
     if (strcmp(password, "123456") == 0) {
         printf("The sum of %d and %d is %d\n", a, b, sum);
-        printf("Creado por: ChatGPT\n");
+        printf("Creado por: Jose Luis Manon");
     } else {
         printf("Contraseña incorrecta. Acceso denegado.\n");
     }
